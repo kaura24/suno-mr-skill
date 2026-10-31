@@ -13,3 +13,5 @@ YouTube リンクからボーカルを分離し、MP3 伴奏を Suno MCP にア�
 The skill requires a connected Suno MCP and an agent host that supports local skills, shell commands, and MCP tools.
 
 [Suno MCP setup](https://suno.com/mcp) · [Skill instructions](skills/mr/SKILL.md)
+
+License: [MIT](LICENSE)
