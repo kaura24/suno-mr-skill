@@ -81,4 +81,5 @@ To save a Suno-generated take, ask **“Download take A as an MP3.”** The skil
 - Suno generation uses account credits. If a download requires a separate credit, follow the tool's approval flow.
 - Save Suno results through the approved download channels in [Suno's terms](https://suno.com/terms). The skill does not use playback loopback recording or stream ripping to obtain them.
 - Upload duration depends on the plan. [Suno's official guide](https://help.suno.com/en/articles/6141569) states up to eight minutes on Pro/Premier.
+- The upload limit and a cover's target-duration range are different. The current MCP cover target is at most six minutes; longer inputs may produce shorter results even when the target is omitted. Compare each take with the full uploaded backing.
 - Ensure you have the rights needed to upload and modify the source and comply with [Suno's terms](https://suno.com/terms). If Suno blocks content, report the returned reason and use its official support path.
